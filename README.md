@@ -4,7 +4,7 @@ Exploratory cheminformatics analysis of small-molecule inhibitors of the **20S p
 
 ## Overview
 
-The 20S proteasome is the catalytic core of the proteasome complex and a validated drug target (e.g. bortezomib, carfilzomib in multiple myeloma). This project takes a set of measured inhibitors and asks a few practical questions:
+The 20S proteasome is the catalytic core of the proteasome complex and a validated drug target. This project takes a set of measured inhibitors and asks a few practical questions:
 
 - How potent are the known compounds, and where do they sit on a pIC50 scale?
 - What separates the active compounds from the inactive ones (molecular weight, lipophilicity)?
