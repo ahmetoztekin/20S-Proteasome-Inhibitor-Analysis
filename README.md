@@ -44,7 +44,7 @@ The notebook expects a file named **`20Sproteasome.csv`** in the same directory,
 
 `molecule_chembl_id`, `molecule_name`, `molecular_weight`, `#ro5_violations`, `alogp`, `smiles`, `standard_type`, `standard_relation`, `standard_value`, `standard_units`, and assay/document metadata.
 
-The CSV is **not included** in this repository. To reproduce the analysis, download a 20S proteasome activity set from ChEMBL and save it with the expected filename, or update the path in the first cell.
+The CSV file is also included.
 
 ## Usage
 
@@ -73,4 +73,4 @@ Run the cells in order. Make sure `20Sproteasome.csv` is present before running 
 
 ## License
 
-No license specified. Add one (e.g. MIT) if you intend to share or reuse this work.
+MIT Licensed.
